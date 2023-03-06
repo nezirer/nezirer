@@ -11,6 +11,6 @@ As a Software Engineer, I am committed to self-improvement and continuously lear
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nezirer&label=Profile%20views&color=0e75b6&style=flat" alt="nezirer" /> </p>
 
-[![](https://visitcount.itsvg.in/api?id=nezirer&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
