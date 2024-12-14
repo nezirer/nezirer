@@ -13,10 +13,6 @@ As a Data Scientist candidate, I am eager to learn and improve myself. <br>I enj
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nezirer&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nezirer&icon=7&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nezirer&label=Profile%20views&color=0e75b6&style=flat" alt="nezirer" /> </p>
 
 
