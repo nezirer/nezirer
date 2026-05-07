@@ -43,12 +43,12 @@ Bilgisayar Mühendisliği son sınıf öğrencisiyim ve mühendislik altyapımı
 ---
 
 ### 🚀 Neler Yapıyorum?
-* 🎓 **Eğitim:** Kütahya Dumlupınar Üniversitesi'nde Bilgisayar Mühendisliği bölümünde 4. sınıf öğrencisiyim.
-* 📄 **Aktif Geliştirme :** Üniversite öğrencilerinin ücretsiz olarak iş/staj ilanlarını takip edebilecekleri ücretsiz bir SaaS uygulaması üzerinde çalışıyorum.
-* ⌨️ **Web Platformu:** Kullanıcıların pratik yapabilmesi için gerçek zamanlı sınav simülasyonu sunan platformlar geliştirdim.
-* 🤖 **Otomasyon:** n8n ve AI API entegrasyonları kullanarak iş süreçlerini otomatize eden sistemler tasarlıyorum.
-* 📊 **Veri Analizi:** Otomotiv Sektöründeki Bilgi Teknolojileri stajımda,kirli verileri temizleyip analiz ederek raporlara dönüştürdüm.
-* 📈 **İlgi Alanları:** Finansal mühendislik, BIST/NASDAQ piyasaları, Grafik tasarım ve Kripto madencilik konularıyla aktif olarak ilgileniyorum.
+*  **Eğitim:** Kütahya Dumlupınar Üniversitesi'nde Bilgisayar Mühendisliği bölümünde 4. sınıf öğrencisiyim.
+*  **Aktif Geliştirme :** Üniversite öğrencilerinin ücretsiz olarak iş/staj ilanlarını takip edebilecekleri ücretsiz bir SaaS uygulaması üzerinde çalışıyorum.
+*  **Web Platformu:** Kullanıcıların pratik yapabilmesi için gerçek zamanlı sınav simülasyonu sunan platformlar geliştirdim.
+*  **Otomasyon:** n8n ve AI API entegrasyonları kullanarak iş süreçlerini otomatize eden sistemler tasarlıyorum.
+*  **Veri Analizi:** Otomotiv Sektöründeki Bilgi Teknolojileri stajımda,kirli verileri temizleyip analiz ederek raporlara dönüştürdüm.
+*  **İlgi Alanları:** Finansal mühendislik, BIST/NASDAQ piyasaları, Grafik tasarım ve Kripto madencilik konularıyla aktif olarak ilgileniyorum.
 
 * 🔬 **Makine Öğrenmesi Araştırması:** Kredi onay tahmini problemi için farklı makine öğrenmesi modellerini karşılaştırarak, özellik seçiminin model performansına etkisini analiz ettiğim  2025 yılı dönem projem. 🔗 [Proje Dosyalarını İncele (Google Drive)](https://drive.google.com/drive/folders/1Qbq81-lpv0LYnqSa9X31KSyv9TMS9atB?usp=share_link)
 
