@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="284" viewBox="0 0 760 284" role="img" aria-label="whoami terminal">
+<style>
+text{font:14px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#e6edf3;white-space:pre}
+.p{fill:#7ee787} .c{fill:#e6edf3} .o{fill:#ff8a3d} .d{fill:#79c0ff} .t{fill:#8b949e;font-size:12px}
+.k{fill:#161b22}
+.f{opacity:0;animation:fade .3s forwards}
+.cur{fill:#7ee787;animation:blink 1s steps(1) infinite}
+@keyframes type{to{transform:translateX(760px)}}
+@keyframes fade{to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+#k0{animation:type 0.36s steps(8) 0.60s forwards}
+#l1{animation-delay:1.21s}
+#k2{animation:type 0.67s steps(15) 1.71s forwards}
+#l3{animation-delay:2.63s}
+#k4{animation:type 0.67s steps(15) 3.13s forwards}
+#l5{animation-delay:4.06s}
+#k6{animation:type 0.63s steps(14) 4.56s forwards}
+#l7{animation-delay:5.44s}
+#last{animation-delay:5.94s}
+</style>
+<rect width="760" height="284" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="42" cy="20" r="6" fill="#febc2e"/><circle cx="62" cy="20" r="6" fill="#28c840"/>
+<text class="t" x="380.0" y="24" text-anchor="middle">nezirer@bursa: ~</text>
+<text x="24" y="64"><tspan class="p">$</tspan> <tspan class="c">whoami</tspan></text>
+<rect class="k" id="k0" x="22" y="48" width="79.2" height="22"/>
+<text id="l1" class="o f" x="24" y="88">nezir erdinç: computer engineer who builds real systems</text>
+<text x="24" y="112"><tspan class="p">$</tspan> <tspan class="c">cat focus.txt</tspan></text>
+<rect class="k" id="k2" x="22" y="96" width="138.0" height="22"/>
+<text id="l3" class="o f" x="24" y="136">software × AI × automation × data × manufacturing</text>
+<text x="24" y="160"><tspan class="p">$</tspan> <tspan class="c">ls ./building</tspan></text>
+<rect class="k" id="k4" x="22" y="144" width="138.0" height="22"/>
+<text id="l5" class="d f" x="24" y="184">web-apps/  internal-tools/  production-digitalization/  ai-integrations/</text>
+<text x="24" y="208"><tspan class="p">$</tspan> <tspan class="c">cat goal.txt</tspan></text>
+<rect class="k" id="k6" x="22" y="192" width="129.60000000000002" height="22"/>
+<text id="l7" class="o f" x="24" y="232">understand the problem → design the solution → ship it end to end</text>
+<text id="last" class="f" x="24" y="256"><tspan class="p">$</tspan> <tspan class="cur">▌</tspan></text>
+</svg>
