@@ -22,7 +22,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,cs,js,html,nodejs,postgres,mysql,sklearn,threejs,docker,linux,git,cloudflare&theme=light" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Ccs%2Cjs%2Chtml%2Cnodejs%2Cpostgres%2Cmysql%2Csklearn%2Cthreejs%2Cdocker%2Clinux%2Cgit%2Ccloudflare&theme=light" />
     <img src="https://skillicons.dev/icons?i=py,cs,js,html,nodejs,postgres,mysql,sklearn,threejs,docker,linux,git,cloudflare" alt="Python, C#, JavaScript, HTML, Node.js, PostgreSQL, MySQL, scikit-learn, three.js, Docker, Linux, Git, Cloudflare" />
   </picture>
 </p>
