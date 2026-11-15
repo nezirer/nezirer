@@ -28,10 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://katipklavye.com"><picture><source media="(prefers-color-scheme: light)" srcset="cards/katipklavye-light.png" /><img src="cards/katipklavye-dark.png" width="49%" alt="Katip Klavye: typing tests and clerk exam prep" /></picture></a>
-  <a href="https://www.kariyerdefteri.com"><picture><source media="(prefers-color-scheme: light)" srcset="cards/kariyerdefteri-light.png" /><img src="cards/kariyerdefteri-dark.png" width="49%" alt="Kariyer Defteri: job applications on a kanban board" /></picture></a>
-  <a href="https://ehliyetsinavcim.com"><picture><source media="(prefers-color-scheme: light)" srcset="cards/ehliyetsinavcim-light.png" /><img src="cards/ehliyetsinavcim-dark.png" width="49%" alt="Ehliyet Sınavcım: driving-licence mock exams" /></picture></a>
   <picture><source media="(prefers-color-scheme: light)" srcset="cards/kap-sinyal-light.png" /><img src="cards/kap-sinyal-dark.png" width="49%" alt="KAP Sinyal: BIST disclosures, LLM sentiment and price impact (graduation project)" /></picture>
+  <a href="https://www.kariyerdefteri.com"><picture><source media="(prefers-color-scheme: light)" srcset="cards/kariyerdefteri-light.png" /><img src="cards/kariyerdefteri-dark.png" width="49%" alt="Kariyer Defteri: job applications on a kanban board" /></picture></a>
+  <a href="https://vault.nezirer.com"><picture><source media="(prefers-color-scheme: light)" srcset="cards/vault-light.png" /><img src="cards/vault-dark.png" width="98.6%" alt="Vault: my AI memory, notes from every session cleaned, triaged and fed back to the next one" /></picture></a>
 </p>
-
-<p align="center"><sub>The spinning head is me: six photos turned into ASCII by a small Pillow script.</sub></p>
